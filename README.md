@@ -1,4 +1,4 @@
-## Google Chome Extension Sampples
+## Google Chrome Extension Samples
 COPY-ONLY git mirror of Google Chrome extension samples found here https://developer.chrome.com/extensions/samples
 
 + [LICENSE](#license)
