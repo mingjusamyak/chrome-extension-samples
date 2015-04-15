@@ -1,10 +1,10 @@
 ## Google Chome Extension Sampples
 pffy's COPY-ONLY git mirror of Google Chrome extension samples
 
-+ [LICENSE](#LICENSE)
-  + [SUMMARY](#SUMMARY)
-    + [CALLS](#CALLS)
-    + [SAMPLES](#SAMPLES)
++ [LICENSE](#license)
+  + [SUMMARY](#summary)
+    + [CALLS](#calls)
+    + [SAMPLES](#samples)
 
 # LICENSE
   + READ THIS BSD-STYLE [LICENSE](https://raw.githubusercontent.com/pffy/chrome-extension-samples/master/LICENSE.md).
