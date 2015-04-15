@@ -24,222 +24,222 @@ pffy's COPY-ONLY git mirror of Google Chrome extension samples
 
 The following list links you to **chrome.* API** calls made in the extension samples (for reference).
 
-  + [alarms.onAlarm](https://developer.chrome.com/extensions/alarms#event-onAlarm)
-  + [alarms.create](https://developer.chrome.com/extensions/alarms#method-create)
-  + [alarms.get](https://developer.chrome.com/extensions/alarms#method-get)
-  + [bookmarks.onChanged](https://developer.chrome.com/extensions/bookmarks#event-onChanged)
-  + [bookmarks.onCreated](https://developer.chrome.com/extensions/bookmarks#event-onCreated)
-  + [bookmarks.onMoved](https://developer.chrome.com/extensions/bookmarks#event-onMoved)
-  + [bookmarks.onRemoved](https://developer.chrome.com/extensions/bookmarks#event-onRemoved)
-  + [bookmarks.create](https://developer.chrome.com/extensions/bookmarks#method-create)
-  + [bookmarks.getChildren](https://developer.chrome.com/extensions/bookmarks#method-getChildren)
-  + [bookmarks.getTree](https://developer.chrome.com/extensions/bookmarks#method-getTree)
-  + [bookmarks.move](https://developer.chrome.com/extensions/bookmarks#method-move)
-  + [bookmarks.remove](https://developer.chrome.com/extensions/bookmarks#method-remove)
-  + [bookmarks.removeTree](https://developer.chrome.com/extensions/bookmarks#method-removeTree)
-  + [bookmarks.update](https://developer.chrome.com/extensions/bookmarks#method-update)
-  + [browserAction.onClicked](https://developer.chrome.com/extensions/browserAction#event-onClicked)
-  + [browserAction.setBadgeBackgroundColor](https://developer.chrome.com/extensions/browserAction#method-setBadgeBackgroundColor)
-  + [browserAction.setBadgeText](https://developer.chrome.com/extensions/browserAction#method-setBadgeText)
-  + [browserAction.setIcon](https://developer.chrome.com/extensions/browserAction#method-setIcon)
-  + [browserAction.setTitle](https://developer.chrome.com/extensions/browserAction#method-setTitle)
-  + [browsingData.remove](https://developer.chrome.com/extensions/browsingData#method-remove)
-  + [commands.onCommand](https://developer.chrome.com/extensions/commands#event-onCommand)
-  + [contentSettings.ContentSetting.clear](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-clear)
-  + [contentSettings.ContentSetting.get](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-get)
-  + [contentSettings.ContentSetting.getResourceIdentifiers](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-getResourceIdentifiers)
-  + [contentSettings.ContentSetting.set](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-set)
-  + [contentSettings.plugins](https://developer.chrome.com/extensions/contentSettings#property-plugins)
-  + [contextMenus.onClicked](https://developer.chrome.com/extensions/contextMenus#event-onClicked)
-  + [contextMenus.create](https://developer.chrome.com/extensions/contextMenus#method-create)
-  + [cookies.onChanged](https://developer.chrome.com/extensions/cookies#event-onChanged)
-  + [cookies.getAll](https://developer.chrome.com/extensions/cookies#method-getAll)
-  + [cookies.remove](https://developer.chrome.com/extensions/cookies#method-remove)
-  + [debugger.onDetach](https://developer.chrome.com/extensions/debugger#event-onDetach)
-  + [debugger.onEvent](https://developer.chrome.com/extensions/debugger#event-onEvent)
-  + [debugger.attach](https://developer.chrome.com/extensions/debugger#method-attach)
-  + [debugger.detach](https://developer.chrome.com/extensions/debugger#method-detach)
-  + [debugger.sendCommand](https://developer.chrome.com/extensions/debugger#method-sendCommand)
-  + [declarativeContent.PageStateMatcher](https://developer.chrome.com/extensions/declarativeContent#type-PageStateMatcher)
-  + [declarativeContent.ShowPageAction](https://developer.chrome.com/extensions/declarativeContent#type-ShowPageAction)
-  + [declarativeWebRequest.IgnoreRules](https://developer.chrome.com/extensions/declarativeWebRequest#type-IgnoreRules)
-  + [declarativeWebRequest.RedirectRequest](https://developer.chrome.com/extensions/declarativeWebRequest#type-RedirectRequest)
-  + [declarativeWebRequest.RequestMatcher](https://developer.chrome.com/extensions/declarativeWebRequest#type-RequestMatcher)
-  + [desktopCapture.cancelChooseDesktopMedia](https://developer.chrome.com/extensions/desktopCapture#method-cancelChooseDesktopMedia)
-  + [desktopCapture.chooseDesktopMedia](https://developer.chrome.com/extensions/desktopCapture#method-chooseDesktopMedia)
-  + [devtools.inspectedWindow.eval](https://developer.chrome.com/extensions/devtools.inspectedWindow#method-eval)
-  + [devtools.inspectedWindow.reload](https://developer.chrome.com/extensions/devtools.inspectedWindow#method-reload)
-  + [devtools.network.onRequestFinished](https://developer.chrome.com/extensions/devtools.network#event-onRequestFinished)
-  + [devtools.network.getHAR](https://developer.chrome.com/extensions/devtools.network#method-getHAR)
-  + [devtools.panels.ElementsPanel.onSelectionChanged](https://developer.chrome.com/extensions/devtools.panels#event-ElementsPanel-onSelectionChanged)
-  + [devtools.panels.create](https://developer.chrome.com/extensions/devtools.panels#method-create)
-  + [devtools.panels.ElementsPanel.createSidebarPane](https://developer.chrome.com/extensions/devtools.panels#method-ElementsPanel-createSidebarPane)
-  + [documentScan.scan](https://developer.chrome.com/extensions/documentScan#method-scan)
-  + [downloads.onChanged](https://developer.chrome.com/extensions/downloads#event-onChanged)
-  + [downloads.onCreated](https://developer.chrome.com/extensions/downloads#event-onCreated)
-  + [downloads.onDeterminingFilename](https://developer.chrome.com/extensions/downloads#event-onDeterminingFilename)
-  + [downloads.onErased](https://developer.chrome.com/extensions/downloads#event-onErased)
-  + [downloads.acceptDanger](https://developer.chrome.com/extensions/downloads#method-acceptDanger)
-  + [downloads.cancel](https://developer.chrome.com/extensions/downloads#method-cancel)
-  + [downloads.download](https://developer.chrome.com/extensions/downloads#method-download)
-  + [downloads.drag](https://developer.chrome.com/extensions/downloads#method-drag)
-  + [downloads.erase](https://developer.chrome.com/extensions/downloads#method-erase)
-  + [downloads.getFileIcon](https://developer.chrome.com/extensions/downloads#method-getFileIcon)
-  + [downloads.open](https://developer.chrome.com/extensions/downloads#method-open)
-  + [downloads.pause](https://developer.chrome.com/extensions/downloads#method-pause)
-  + [downloads.removeFile](https://developer.chrome.com/extensions/downloads#method-removeFile)
-  + [downloads.resume](https://developer.chrome.com/extensions/downloads#method-resume)
-  + [downloads.search](https://developer.chrome.com/extensions/downloads#method-search)
-  + [downloads.setShelfEnabled](https://developer.chrome.com/extensions/downloads#method-setShelfEnabled)
-  + [downloads.show](https://developer.chrome.com/extensions/downloads#method-show)
-  + [downloads.showDefaultFolder](https://developer.chrome.com/extensions/downloads#method-showDefaultFolder)
-  + [experimental.devtools.audits.addCategory](https://developer.chrome.com/extensions/experimental.devtools.audits#method-addCategory)
-  + [extension.onRequest](https://developer.chrome.com/extensions/extension#event-onRequest)
-  + [extension.getBackgroundPage](https://developer.chrome.com/extensions/extension#method-getBackgroundPage)
-  + [extension.getURL](https://developer.chrome.com/extensions/extension#method-getURL)
-  + [extension.getViews](https://developer.chrome.com/extensions/extension#method-getViews)
-  + [extension.isAllowedFileSchemeAccess](https://developer.chrome.com/extensions/extension#method-isAllowedFileSchemeAccess)
-  + [extension.isAllowedIncognitoAccess](https://developer.chrome.com/extensions/extension#method-isAllowedIncognitoAccess)
-  + [extension.sendRequest](https://developer.chrome.com/extensions/extension#method-sendRequest)
-  + [extension.lastError](https://developer.chrome.com/extensions/extension#property-lastError)
-  + [fileSystemProvider.onCloseFileRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onCloseFileRequested)
-  + [fileSystemProvider.onGetMetadataRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onGetMetadataRequested)
-  + [fileSystemProvider.onOpenFileRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onOpenFileRequested)
-  + [fileSystemProvider.onReadDirectoryRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onReadDirectoryRequested)
-  + [fileSystemProvider.onReadFileRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onReadFileRequested)
-  + [fileSystemProvider.onUnmountRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onUnmountRequested)
-  + [fileSystemProvider.mount](https://developer.chrome.com/extensions/fileSystemProvider#method-mount)
-  + [fileSystemProvider.unmount](https://developer.chrome.com/extensions/fileSystemProvider#method-unmount)
-  + [fontSettings.onDefaultFixedFontSizeChanged](https://developer.chrome.com/extensions/fontSettings#event-onDefaultFixedFontSizeChanged)
-  + [fontSettings.onDefaultFontSizeChanged](https://developer.chrome.com/extensions/fontSettings#event-onDefaultFontSizeChanged)
-  + [fontSettings.onFontChanged](https://developer.chrome.com/extensions/fontSettings#event-onFontChanged)
-  + [fontSettings.onMinimumFontSizeChanged](https://developer.chrome.com/extensions/fontSettings#event-onMinimumFontSizeChanged)
-  + [fontSettings.clearDefaultFixedFontSize](https://developer.chrome.com/extensions/fontSettings#method-clearDefaultFixedFontSize)
-  + [fontSettings.clearDefaultFontSize](https://developer.chrome.com/extensions/fontSettings#method-clearDefaultFontSize)
-  + [fontSettings.clearFont](https://developer.chrome.com/extensions/fontSettings#method-clearFont)
-  + [fontSettings.clearMinimumFontSize](https://developer.chrome.com/extensions/fontSettings#method-clearMinimumFontSize)
-  + [fontSettings.getDefaultFixedFontSize](https://developer.chrome.com/extensions/fontSettings#method-getDefaultFixedFontSize)
-  + [fontSettings.getDefaultFontSize](https://developer.chrome.com/extensions/fontSettings#method-getDefaultFontSize)
-  + [fontSettings.getFont](https://developer.chrome.com/extensions/fontSettings#method-getFont)
-  + [fontSettings.getFontList](https://developer.chrome.com/extensions/fontSettings#method-getFontList)
-  + [fontSettings.getMinimumFontSize](https://developer.chrome.com/extensions/fontSettings#method-getMinimumFontSize)
-  + [fontSettings.setDefaultFixedFontSize](https://developer.chrome.com/extensions/fontSettings#method-setDefaultFixedFontSize)
-  + [fontSettings.setDefaultFontSize](https://developer.chrome.com/extensions/fontSettings#method-setDefaultFontSize)
-  + [fontSettings.setFont](https://developer.chrome.com/extensions/fontSettings#method-setFont)
-  + [fontSettings.setMinimumFontSize](https://developer.chrome.com/extensions/fontSettings#method-setMinimumFontSize)
-  + [history.getVisits](https://developer.chrome.com/extensions/history#method-getVisits)
-  + [history.search](https://developer.chrome.com/extensions/history#method-search)
-  + [i18n.getAcceptLanguages](https://developer.chrome.com/extensions/i18n#method-getAcceptLanguages)
-  + [i18n.getMessage](https://developer.chrome.com/extensions/i18n#method-getMessage)
-  + [idle.onStateChanged](https://developer.chrome.com/extensions/idle#event-onStateChanged)
-  + [idle.queryState](https://developer.chrome.com/extensions/idle#method-queryState)
-  + [input.ime.onActivate](https://developer.chrome.com/extensions/input.ime#event-onActivate)
-  + [input.ime.onBlur](https://developer.chrome.com/extensions/input.ime#event-onBlur)
-  + [input.ime.onDeactivated](https://developer.chrome.com/extensions/input.ime#event-onDeactivated)
-  + [input.ime.onFocus](https://developer.chrome.com/extensions/input.ime#event-onFocus)
-  + [input.ime.onKeyEvent](https://developer.chrome.com/extensions/input.ime#event-onKeyEvent)
-  + [input.ime.commitText](https://developer.chrome.com/extensions/input.ime#method-commitText)
-  + [management.getAll](https://developer.chrome.com/extensions/management#method-getAll)
-  + [management.launchApp](https://developer.chrome.com/extensions/management#method-launchApp)
-  + [management.uninstallSelf](https://developer.chrome.com/extensions/management#method-uninstallSelf)
-  + [notifications.onButtonClicked](https://developer.chrome.com/extensions/notifications#event-onButtonClicked)
-  + [notifications.onClicked](https://developer.chrome.com/extensions/notifications#event-onClicked)
-  + [notifications.clear](https://developer.chrome.com/extensions/notifications#method-clear)
-  + [notifications.create](https://developer.chrome.com/extensions/notifications#method-create)
-  + [omnibox.onInputCancelled](https://developer.chrome.com/extensions/omnibox#event-onInputCancelled)
-  + [omnibox.onInputChanged](https://developer.chrome.com/extensions/omnibox#event-onInputChanged)
-  + [omnibox.onInputEntered](https://developer.chrome.com/extensions/omnibox#event-onInputEntered)
-  + [omnibox.onInputStarted](https://developer.chrome.com/extensions/omnibox#event-onInputStarted)
-  + [omnibox.setDefaultSuggestion](https://developer.chrome.com/extensions/omnibox#method-setDefaultSuggestion)
-  + [pageAction.onClicked](https://developer.chrome.com/extensions/pageAction#event-onClicked)
-  + [pageAction.hide](https://developer.chrome.com/extensions/pageAction#method-hide)
-  + [pageAction.setIcon](https://developer.chrome.com/extensions/pageAction#method-setIcon)
-  + [pageAction.setTitle](https://developer.chrome.com/extensions/pageAction#method-setTitle)
-  + [pageAction.show](https://developer.chrome.com/extensions/pageAction#method-show)
-  + [permissions.onAdded](https://developer.chrome.com/extensions/permissions#event-onAdded)
-  + [permissions.onRemoved](https://developer.chrome.com/extensions/permissions#event-onRemoved)
-  + [permissions.contains](https://developer.chrome.com/extensions/permissions#method-contains)
-  + [permissions.remove](https://developer.chrome.com/extensions/permissions#method-remove)
-  + [permissions.request](https://developer.chrome.com/extensions/permissions#method-request)
-  + [power.releaseKeepAwake](https://developer.chrome.com/extensions/power#method-releaseKeepAwake)
-  + [power.requestKeepAwake](https://developer.chrome.com/extensions/power#method-requestKeepAwake)
-  + [processes.onUpdatedWithMemory](https://developer.chrome.com/extensions/processes#event-onUpdatedWithMemory)
-  + [processes.getProcessIdForTab](https://developer.chrome.com/extensions/processes#method-getProcessIdForTab)
-  + [processes.terminate](https://developer.chrome.com/extensions/processes#method-terminate)
-  + [proxy.onProxyError](https://developer.chrome.com/extensions/proxy#event-onProxyError)
-  + [runtime.onConnect](https://developer.chrome.com/extensions/runtime#event-onConnect)
-  + [runtime.onInstalled](https://developer.chrome.com/extensions/runtime#event-onInstalled)
-  + [runtime.onMessage](https://developer.chrome.com/extensions/runtime#event-onMessage)
-  + [runtime.onStartup](https://developer.chrome.com/extensions/runtime#event-onStartup)
-  + [runtime.onSuspend](https://developer.chrome.com/extensions/runtime#event-onSuspend)
-  + [runtime.connect](https://developer.chrome.com/extensions/runtime#method-connect)
-  + [runtime.connectNative](https://developer.chrome.com/extensions/runtime#method-connectNative)
-  + [runtime.getURL](https://developer.chrome.com/extensions/runtime#method-getURL)
-  + [runtime.sendMessage](https://developer.chrome.com/extensions/runtime#method-sendMessage)
-  + [runtime.id](https://developer.chrome.com/extensions/runtime#property-id)
-  + [runtime.lastError](https://developer.chrome.com/extensions/runtime#property-lastError)
-  + [signedInDevices.onDeviceInfoChange](https://developer.chrome.com/extensions/signedInDevices#event-onDeviceInfoChange)
-  + [signedInDevices.get](https://developer.chrome.com/extensions/signedInDevices#method-get)
-  + [storage.onChanged](https://developer.chrome.com/extensions/storage#event-onChanged)
-  + [storage.StorageArea.clear](https://developer.chrome.com/extensions/storage#method-StorageArea-clear)
-  + [storage.StorageArea.get](https://developer.chrome.com/extensions/storage#method-StorageArea-get)
-  + [storage.StorageArea.remove](https://developer.chrome.com/extensions/storage#method-StorageArea-remove)
-  + [storage.StorageArea.set](https://developer.chrome.com/extensions/storage#method-StorageArea-set)
-  + [storage.local](https://developer.chrome.com/extensions/storage#property-local)
-  + [tabs.onAttached](https://developer.chrome.com/extensions/tabs#event-onAttached)
-  + [tabs.onCreated](https://developer.chrome.com/extensions/tabs#event-onCreated)
-  + [tabs.onDetached](https://developer.chrome.com/extensions/tabs#event-onDetached)
-  + [tabs.onMoved](https://developer.chrome.com/extensions/tabs#event-onMoved)
-  + [tabs.onRemoved](https://developer.chrome.com/extensions/tabs#event-onRemoved)
-  + [tabs.onSelectionChanged](https://developer.chrome.com/extensions/tabs#event-onSelectionChanged)
-  + [tabs.onUpdated](https://developer.chrome.com/extensions/tabs#event-onUpdated)
-  + [tabs.onZoomChange](https://developer.chrome.com/extensions/tabs#event-onZoomChange)
-  + [tabs.captureVisibleTab](https://developer.chrome.com/extensions/tabs#method-captureVisibleTab)
-  + [tabs.connect](https://developer.chrome.com/extensions/tabs#method-connect)
-  + [tabs.create](https://developer.chrome.com/extensions/tabs#method-create)
-  + [tabs.detectLanguage](https://developer.chrome.com/extensions/tabs#method-detectLanguage)
-  + [tabs.duplicate](https://developer.chrome.com/extensions/tabs#method-duplicate)
-  + [tabs.executeScript](https://developer.chrome.com/extensions/tabs#method-executeScript)
-  + [tabs.get](https://developer.chrome.com/extensions/tabs#method-get)
-  + [tabs.getAllInWindow](https://developer.chrome.com/extensions/tabs#method-getAllInWindow)
-  + [tabs.getCurrent](https://developer.chrome.com/extensions/tabs#method-getCurrent)
-  + [tabs.getZoom](https://developer.chrome.com/extensions/tabs#method-getZoom)
-  + [tabs.getZoomSettings](https://developer.chrome.com/extensions/tabs#method-getZoomSettings)
-  + [tabs.insertCSS](https://developer.chrome.com/extensions/tabs#method-insertCSS)
-  + [tabs.move](https://developer.chrome.com/extensions/tabs#method-move)
-  + [tabs.query](https://developer.chrome.com/extensions/tabs#method-query)
-  + [tabs.remove](https://developer.chrome.com/extensions/tabs#method-remove)
-  + [tabs.sendMessage](https://developer.chrome.com/extensions/tabs#method-sendMessage)
-  + [tabs.sendRequest](https://developer.chrome.com/extensions/tabs#method-sendRequest)
-  + [tabs.setZoom](https://developer.chrome.com/extensions/tabs#method-setZoom)
-  + [tabs.setZoomSettings](https://developer.chrome.com/extensions/tabs#method-setZoomSettings)
-  + [tabs.update](https://developer.chrome.com/extensions/tabs#method-update)
-  + [topSites.get](https://developer.chrome.com/extensions/topSites#method-get)
-  + [tts.getVoices](https://developer.chrome.com/extensions/tts#method-getVoices)
-  + [tts.isSpeaking](https://developer.chrome.com/extensions/tts#method-isSpeaking)
-  + [tts.speak](https://developer.chrome.com/extensions/tts#method-speak)
-  + [tts.stop](https://developer.chrome.com/extensions/tts#method-stop)
-  + [ttsEngine.onSpeak](https://developer.chrome.com/extensions/ttsEngine#event-onSpeak)
-  + [ttsEngine.onStop](https://developer.chrome.com/extensions/ttsEngine#event-onStop)
-  + [webNavigation.onBeforeNavigate](https://developer.chrome.com/extensions/webNavigation#event-onBeforeNavigate)
-  + [webNavigation.onCommitted](https://developer.chrome.com/extensions/webNavigation#event-onCommitted)
-  + [webNavigation.onCompleted](https://developer.chrome.com/extensions/webNavigation#event-onCompleted)
-  + [webNavigation.onCreatedNavigationTarget](https://developer.chrome.com/extensions/webNavigation#event-onCreatedNavigationTarget)
-  + [webNavigation.onDOMContentLoaded](https://developer.chrome.com/extensions/webNavigation#event-onDOMContentLoaded)
-  + [webNavigation.onErrorOccurred](https://developer.chrome.com/extensions/webNavigation#event-onErrorOccurred)
-  + [webNavigation.onHistoryStateUpdated](https://developer.chrome.com/extensions/webNavigation#event-onHistoryStateUpdated)
-  + [webNavigation.onReferenceFragmentUpdated](https://developer.chrome.com/extensions/webNavigation#event-onReferenceFragmentUpdated)
-  + [webRequest.onBeforeRequest](https://developer.chrome.com/extensions/webRequest#event-onBeforeRequest)
-  + [windows.onCreated](https://developer.chrome.com/extensions/windows#event-onCreated)
-  + [windows.onFocusChanged](https://developer.chrome.com/extensions/windows#event-onFocusChanged)
-  + [windows.onRemoved](https://developer.chrome.com/extensions/windows#event-onRemoved)
-  + [windows.create](https://developer.chrome.com/extensions/windows#method-create)
-  + [windows.get](https://developer.chrome.com/extensions/windows#method-get)
-  + [windows.getAll](https://developer.chrome.com/extensions/windows#method-getAll)
-  + [windows.getCurrent](https://developer.chrome.com/extensions/windows#method-getCurrent)
-  + [windows.getLastFocused](https://developer.chrome.com/extensions/windows#method-getLastFocused)
-  + [windows.remove](https://developer.chrome.com/extensions/windows#method-remove)
-  + [windows.update](https://developer.chrome.com/extensions/windows#method-update)
+   + [alarms.onAlarm](https://developer.chrome.com/extensions/alarms#event-onAlarm) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=alarms.onAlarm&type=Code) ]
+  + [alarms.create](https://developer.chrome.com/extensions/alarms#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=alarms.create&type=Code) ]
+  + [alarms.get](https://developer.chrome.com/extensions/alarms#method-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=alarms.get&type=Code) ]
+  + [bookmarks.onChanged](https://developer.chrome.com/extensions/bookmarks#event-onChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.onChanged&type=Code) ]
+  + [bookmarks.onCreated](https://developer.chrome.com/extensions/bookmarks#event-onCreated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.onCreated&type=Code) ]
+  + [bookmarks.onMoved](https://developer.chrome.com/extensions/bookmarks#event-onMoved) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.onMoved&type=Code) ]
+  + [bookmarks.onRemoved](https://developer.chrome.com/extensions/bookmarks#event-onRemoved) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.onRemoved&type=Code) ]
+  + [bookmarks.create](https://developer.chrome.com/extensions/bookmarks#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.create&type=Code) ]
+  + [bookmarks.getChildren](https://developer.chrome.com/extensions/bookmarks#method-getChildren) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.getChildren&type=Code) ]
+  + [bookmarks.getTree](https://developer.chrome.com/extensions/bookmarks#method-getTree) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.getTree&type=Code) ]
+  + [bookmarks.move](https://developer.chrome.com/extensions/bookmarks#method-move) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.move&type=Code) ]
+  + [bookmarks.remove](https://developer.chrome.com/extensions/bookmarks#method-remove) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.remove&type=Code) ]
+  + [bookmarks.removeTree](https://developer.chrome.com/extensions/bookmarks#method-removeTree) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.removeTree&type=Code) ]
+  + [bookmarks.update](https://developer.chrome.com/extensions/bookmarks#method-update) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.update&type=Code) ]
+  + [browserAction.onClicked](https://developer.chrome.com/extensions/browserAction#event-onClicked) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=browserAction.onClicked&type=Code) ]
+  + [browserAction.setBadgeBackgroundColor](https://developer.chrome.com/extensions/browserAction#method-setBadgeBackgroundColor) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=browserAction.setBadgeBackgroundColor&type=Code) ]
+  + [browserAction.setBadgeText](https://developer.chrome.com/extensions/browserAction#method-setBadgeText) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=browserAction.setBadgeText&type=Code) ]
+  + [browserAction.setIcon](https://developer.chrome.com/extensions/browserAction#method-setIcon) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=browserAction.setIcon&type=Code) ]
+  + [browserAction.setTitle](https://developer.chrome.com/extensions/browserAction#method-setTitle) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=browserAction.setTitle&type=Code) ]
+  + [browsingData.remove](https://developer.chrome.com/extensions/browsingData#method-remove) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=browsingData.remove&type=Code) ]
+  + [commands.onCommand](https://developer.chrome.com/extensions/commands#event-onCommand) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=commands.onCommand&type=Code) ]
+  + [contentSettings.ContentSetting.clear](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-clear) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=contentSettings.ContentSetting.clear&type=Code) ]
+  + [contentSettings.ContentSetting.get](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=contentSettings.ContentSetting.get&type=Code) ]
+  + [contentSettings.ContentSetting.getResourceIdentifiers](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-getResourceIdentifiers) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=contentSettings.ContentSetting.getResourceIdentifiers&type=Code) ]
+  + [contentSettings.ContentSetting.set](https://developer.chrome.com/extensions/contentSettings#method-ContentSetting-set) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=contentSettings.ContentSetting.set&type=Code) ]
+  + [contentSettings.plugins](https://developer.chrome.com/extensions/contentSettings#property-plugins) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=contentSettings.plugins&type=Code) ]
+  + [contextMenus.onClicked](https://developer.chrome.com/extensions/contextMenus#event-onClicked) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=contextMenus.onClicked&type=Code) ]
+  + [contextMenus.create](https://developer.chrome.com/extensions/contextMenus#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=contextMenus.create&type=Code) ]
+  + [cookies.onChanged](https://developer.chrome.com/extensions/cookies#event-onChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=cookies.onChanged&type=Code) ]
+  + [cookies.getAll](https://developer.chrome.com/extensions/cookies#method-getAll) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=cookies.getAll&type=Code) ]
+  + [cookies.remove](https://developer.chrome.com/extensions/cookies#method-remove) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=cookies.remove&type=Code) ]
+  + [debugger.onDetach](https://developer.chrome.com/extensions/debugger#event-onDetach) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=debugger.onDetach&type=Code) ]
+  + [debugger.onEvent](https://developer.chrome.com/extensions/debugger#event-onEvent) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=debugger.onEvent&type=Code) ]
+  + [debugger.attach](https://developer.chrome.com/extensions/debugger#method-attach) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=debugger.attach&type=Code) ]
+  + [debugger.detach](https://developer.chrome.com/extensions/debugger#method-detach) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=debugger.detach&type=Code) ]
+  + [debugger.sendCommand](https://developer.chrome.com/extensions/debugger#method-sendCommand) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=debugger.sendCommand&type=Code) ]
+  + [declarativeContent.PageStateMatcher](https://developer.chrome.com/extensions/declarativeContent#type-PageStateMatcher) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=declarativeContent.PageStateMatcher&type=Code) ]
+  + [declarativeContent.ShowPageAction](https://developer.chrome.com/extensions/declarativeContent#type-ShowPageAction) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=declarativeContent.ShowPageAction&type=Code) ]
+  + [declarativeWebRequest.IgnoreRules](https://developer.chrome.com/extensions/declarativeWebRequest#type-IgnoreRules) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=declarativeWebRequest.IgnoreRules&type=Code) ]
+  + [declarativeWebRequest.RedirectRequest](https://developer.chrome.com/extensions/declarativeWebRequest#type-RedirectRequest) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=declarativeWebRequest.RedirectRequest&type=Code) ]
+  + [declarativeWebRequest.RequestMatcher](https://developer.chrome.com/extensions/declarativeWebRequest#type-RequestMatcher) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=declarativeWebRequest.RequestMatcher&type=Code) ]
+  + [desktopCapture.cancelChooseDesktopMedia](https://developer.chrome.com/extensions/desktopCapture#method-cancelChooseDesktopMedia) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=desktopCapture.cancelChooseDesktopMedia&type=Code) ]
+  + [desktopCapture.chooseDesktopMedia](https://developer.chrome.com/extensions/desktopCapture#method-chooseDesktopMedia) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=desktopCapture.chooseDesktopMedia&type=Code) ]
+  + [devtools.inspectedWindow.eval](https://developer.chrome.com/extensions/devtools.inspectedWindow#method-eval) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=devtools.inspectedWindow.eval&type=Code) ]
+  + [devtools.inspectedWindow.reload](https://developer.chrome.com/extensions/devtools.inspectedWindow#method-reload) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=devtools.inspectedWindow.reload&type=Code) ]
+  + [devtools.network.onRequestFinished](https://developer.chrome.com/extensions/devtools.network#event-onRequestFinished) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=devtools.network.onRequestFinished&type=Code) ]
+  + [devtools.network.getHAR](https://developer.chrome.com/extensions/devtools.network#method-getHAR) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=devtools.network.getHAR&type=Code) ]
+  + [devtools.panels.ElementsPanel.onSelectionChanged](https://developer.chrome.com/extensions/devtools.panels#event-ElementsPanel-onSelectionChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=devtools.panels.ElementsPanel.onSelectionChanged&type=Code) ]
+  + [devtools.panels.create](https://developer.chrome.com/extensions/devtools.panels#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=devtools.panels.create&type=Code) ]
+  + [devtools.panels.ElementsPanel.createSidebarPane](https://developer.chrome.com/extensions/devtools.panels#method-ElementsPanel-createSidebarPane) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=devtools.panels.ElementsPanel.createSidebarPane&type=Code) ]
+  + [documentScan.scan](https://developer.chrome.com/extensions/documentScan#method-scan) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=documentScan.scan&type=Code) ]
+  + [downloads.onChanged](https://developer.chrome.com/extensions/downloads#event-onChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.onChanged&type=Code) ]
+  + [downloads.onCreated](https://developer.chrome.com/extensions/downloads#event-onCreated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.onCreated&type=Code) ]
+  + [downloads.onDeterminingFilename](https://developer.chrome.com/extensions/downloads#event-onDeterminingFilename) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.onDeterminingFilename&type=Code) ]
+  + [downloads.onErased](https://developer.chrome.com/extensions/downloads#event-onErased) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.onErased&type=Code) ]
+  + [downloads.acceptDanger](https://developer.chrome.com/extensions/downloads#method-acceptDanger) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.acceptDanger&type=Code) ]
+  + [downloads.cancel](https://developer.chrome.com/extensions/downloads#method-cancel) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.cancel&type=Code) ]
+  + [downloads.download](https://developer.chrome.com/extensions/downloads#method-download) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.download&type=Code) ]
+  + [downloads.drag](https://developer.chrome.com/extensions/downloads#method-drag) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.drag&type=Code) ]
+  + [downloads.erase](https://developer.chrome.com/extensions/downloads#method-erase) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.erase&type=Code) ]
+  + [downloads.getFileIcon](https://developer.chrome.com/extensions/downloads#method-getFileIcon) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.getFileIcon&type=Code) ]
+  + [downloads.open](https://developer.chrome.com/extensions/downloads#method-open) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.open&type=Code) ]
+  + [downloads.pause](https://developer.chrome.com/extensions/downloads#method-pause) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.pause&type=Code) ]
+  + [downloads.removeFile](https://developer.chrome.com/extensions/downloads#method-removeFile) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.removeFile&type=Code) ]
+  + [downloads.resume](https://developer.chrome.com/extensions/downloads#method-resume) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.resume&type=Code) ]
+  + [downloads.search](https://developer.chrome.com/extensions/downloads#method-search) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.search&type=Code) ]
+  + [downloads.setShelfEnabled](https://developer.chrome.com/extensions/downloads#method-setShelfEnabled) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.setShelfEnabled&type=Code) ]
+  + [downloads.show](https://developer.chrome.com/extensions/downloads#method-show) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.show&type=Code) ]
+  + [downloads.showDefaultFolder](https://developer.chrome.com/extensions/downloads#method-showDefaultFolder) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=downloads.showDefaultFolder&type=Code) ]
+  + [experimental.devtools.audits.addCategory](https://developer.chrome.com/extensions/experimental.devtools.audits#method-addCategory) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=experimental.devtools.audits.addCategory&type=Code) ]
+  + [extension.onRequest](https://developer.chrome.com/extensions/extension#event-onRequest) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.onRequest&type=Code) ]
+  + [extension.getBackgroundPage](https://developer.chrome.com/extensions/extension#method-getBackgroundPage) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.getBackgroundPage&type=Code) ]
+  + [extension.getURL](https://developer.chrome.com/extensions/extension#method-getURL) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.getURL&type=Code) ]
+  + [extension.getViews](https://developer.chrome.com/extensions/extension#method-getViews) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.getViews&type=Code) ]
+  + [extension.isAllowedFileSchemeAccess](https://developer.chrome.com/extensions/extension#method-isAllowedFileSchemeAccess) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.isAllowedFileSchemeAccess&type=Code) ]
+  + [extension.isAllowedIncognitoAccess](https://developer.chrome.com/extensions/extension#method-isAllowedIncognitoAccess) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.isAllowedIncognitoAccess&type=Code) ]
+  + [extension.sendRequest](https://developer.chrome.com/extensions/extension#method-sendRequest) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.sendRequest&type=Code) ]
+  + [extension.lastError](https://developer.chrome.com/extensions/extension#property-lastError) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=extension.lastError&type=Code) ]
+  + [fileSystemProvider.onCloseFileRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onCloseFileRequested) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.onCloseFileRequested&type=Code) ]
+  + [fileSystemProvider.onGetMetadataRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onGetMetadataRequested) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.onGetMetadataRequested&type=Code) ]
+  + [fileSystemProvider.onOpenFileRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onOpenFileRequested) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.onOpenFileRequested&type=Code) ]
+  + [fileSystemProvider.onReadDirectoryRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onReadDirectoryRequested) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.onReadDirectoryRequested&type=Code) ]
+  + [fileSystemProvider.onReadFileRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onReadFileRequested) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.onReadFileRequested&type=Code) ]
+  + [fileSystemProvider.onUnmountRequested](https://developer.chrome.com/extensions/fileSystemProvider#event-onUnmountRequested) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.onUnmountRequested&type=Code) ]
+  + [fileSystemProvider.mount](https://developer.chrome.com/extensions/fileSystemProvider#method-mount) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.mount&type=Code) ]
+  + [fileSystemProvider.unmount](https://developer.chrome.com/extensions/fileSystemProvider#method-unmount) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fileSystemProvider.unmount&type=Code) ]
+  + [fontSettings.onDefaultFixedFontSizeChanged](https://developer.chrome.com/extensions/fontSettings#event-onDefaultFixedFontSizeChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.onDefaultFixedFontSizeChanged&type=Code) ]
+  + [fontSettings.onDefaultFontSizeChanged](https://developer.chrome.com/extensions/fontSettings#event-onDefaultFontSizeChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.onDefaultFontSizeChanged&type=Code) ]
+  + [fontSettings.onFontChanged](https://developer.chrome.com/extensions/fontSettings#event-onFontChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.onFontChanged&type=Code) ]
+  + [fontSettings.onMinimumFontSizeChanged](https://developer.chrome.com/extensions/fontSettings#event-onMinimumFontSizeChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.onMinimumFontSizeChanged&type=Code) ]
+  + [fontSettings.clearDefaultFixedFontSize](https://developer.chrome.com/extensions/fontSettings#method-clearDefaultFixedFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.clearDefaultFixedFontSize&type=Code) ]
+  + [fontSettings.clearDefaultFontSize](https://developer.chrome.com/extensions/fontSettings#method-clearDefaultFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.clearDefaultFontSize&type=Code) ]
+  + [fontSettings.clearFont](https://developer.chrome.com/extensions/fontSettings#method-clearFont) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.clearFont&type=Code) ]
+  + [fontSettings.clearMinimumFontSize](https://developer.chrome.com/extensions/fontSettings#method-clearMinimumFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.clearMinimumFontSize&type=Code) ]
+  + [fontSettings.getDefaultFixedFontSize](https://developer.chrome.com/extensions/fontSettings#method-getDefaultFixedFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.getDefaultFixedFontSize&type=Code) ]
+  + [fontSettings.getDefaultFontSize](https://developer.chrome.com/extensions/fontSettings#method-getDefaultFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.getDefaultFontSize&type=Code) ]
+  + [fontSettings.getFont](https://developer.chrome.com/extensions/fontSettings#method-getFont) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.getFont&type=Code) ]
+  + [fontSettings.getFontList](https://developer.chrome.com/extensions/fontSettings#method-getFontList) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.getFontList&type=Code) ]
+  + [fontSettings.getMinimumFontSize](https://developer.chrome.com/extensions/fontSettings#method-getMinimumFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.getMinimumFontSize&type=Code) ]
+  + [fontSettings.setDefaultFixedFontSize](https://developer.chrome.com/extensions/fontSettings#method-setDefaultFixedFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.setDefaultFixedFontSize&type=Code) ]
+  + [fontSettings.setDefaultFontSize](https://developer.chrome.com/extensions/fontSettings#method-setDefaultFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.setDefaultFontSize&type=Code) ]
+  + [fontSettings.setFont](https://developer.chrome.com/extensions/fontSettings#method-setFont) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.setFont&type=Code) ]
+  + [fontSettings.setMinimumFontSize](https://developer.chrome.com/extensions/fontSettings#method-setMinimumFontSize) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=fontSettings.setMinimumFontSize&type=Code) ]
+  + [history.getVisits](https://developer.chrome.com/extensions/history#method-getVisits) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=history.getVisits&type=Code) ]
+  + [history.search](https://developer.chrome.com/extensions/history#method-search) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=history.search&type=Code) ]
+  + [i18n.getAcceptLanguages](https://developer.chrome.com/extensions/i18n#method-getAcceptLanguages) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=i18n.getAcceptLanguages&type=Code) ]
+  + [i18n.getMessage](https://developer.chrome.com/extensions/i18n#method-getMessage) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=i18n.getMessage&type=Code) ]
+  + [idle.onStateChanged](https://developer.chrome.com/extensions/idle#event-onStateChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=idle.onStateChanged&type=Code) ]
+  + [idle.queryState](https://developer.chrome.com/extensions/idle#method-queryState) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=idle.queryState&type=Code) ]
+  + [input.ime.onActivate](https://developer.chrome.com/extensions/input.ime#event-onActivate) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=input.ime.onActivate&type=Code) ]
+  + [input.ime.onBlur](https://developer.chrome.com/extensions/input.ime#event-onBlur) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=input.ime.onBlur&type=Code) ]
+  + [input.ime.onDeactivated](https://developer.chrome.com/extensions/input.ime#event-onDeactivated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=input.ime.onDeactivated&type=Code) ]
+  + [input.ime.onFocus](https://developer.chrome.com/extensions/input.ime#event-onFocus) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=input.ime.onFocus&type=Code) ]
+  + [input.ime.onKeyEvent](https://developer.chrome.com/extensions/input.ime#event-onKeyEvent) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=input.ime.onKeyEvent&type=Code) ]
+  + [input.ime.commitText](https://developer.chrome.com/extensions/input.ime#method-commitText) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=input.ime.commitText&type=Code) ]
+  + [management.getAll](https://developer.chrome.com/extensions/management#method-getAll) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=management.getAll&type=Code) ]
+  + [management.launchApp](https://developer.chrome.com/extensions/management#method-launchApp) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=management.launchApp&type=Code) ]
+  + [management.uninstallSelf](https://developer.chrome.com/extensions/management#method-uninstallSelf) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=management.uninstallSelf&type=Code) ]
+  + [notifications.onButtonClicked](https://developer.chrome.com/extensions/notifications#event-onButtonClicked) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=notifications.onButtonClicked&type=Code) ]
+  + [notifications.onClicked](https://developer.chrome.com/extensions/notifications#event-onClicked) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=notifications.onClicked&type=Code) ]
+  + [notifications.clear](https://developer.chrome.com/extensions/notifications#method-clear) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=notifications.clear&type=Code) ]
+  + [notifications.create](https://developer.chrome.com/extensions/notifications#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=notifications.create&type=Code) ]
+  + [omnibox.onInputCancelled](https://developer.chrome.com/extensions/omnibox#event-onInputCancelled) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=omnibox.onInputCancelled&type=Code) ]
+  + [omnibox.onInputChanged](https://developer.chrome.com/extensions/omnibox#event-onInputChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=omnibox.onInputChanged&type=Code) ]
+  + [omnibox.onInputEntered](https://developer.chrome.com/extensions/omnibox#event-onInputEntered) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=omnibox.onInputEntered&type=Code) ]
+  + [omnibox.onInputStarted](https://developer.chrome.com/extensions/omnibox#event-onInputStarted) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=omnibox.onInputStarted&type=Code) ]
+  + [omnibox.setDefaultSuggestion](https://developer.chrome.com/extensions/omnibox#method-setDefaultSuggestion) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=omnibox.setDefaultSuggestion&type=Code) ]
+  + [pageAction.onClicked](https://developer.chrome.com/extensions/pageAction#event-onClicked) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=pageAction.onClicked&type=Code) ]
+  + [pageAction.hide](https://developer.chrome.com/extensions/pageAction#method-hide) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=pageAction.hide&type=Code) ]
+  + [pageAction.setIcon](https://developer.chrome.com/extensions/pageAction#method-setIcon) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=pageAction.setIcon&type=Code) ]
+  + [pageAction.setTitle](https://developer.chrome.com/extensions/pageAction#method-setTitle) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=pageAction.setTitle&type=Code) ]
+  + [pageAction.show](https://developer.chrome.com/extensions/pageAction#method-show) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=pageAction.show&type=Code) ]
+  + [permissions.onAdded](https://developer.chrome.com/extensions/permissions#event-onAdded) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=permissions.onAdded&type=Code) ]
+  + [permissions.onRemoved](https://developer.chrome.com/extensions/permissions#event-onRemoved) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=permissions.onRemoved&type=Code) ]
+  + [permissions.contains](https://developer.chrome.com/extensions/permissions#method-contains) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=permissions.contains&type=Code) ]
+  + [permissions.remove](https://developer.chrome.com/extensions/permissions#method-remove) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=permissions.remove&type=Code) ]
+  + [permissions.request](https://developer.chrome.com/extensions/permissions#method-request) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=permissions.request&type=Code) ]
+  + [power.releaseKeepAwake](https://developer.chrome.com/extensions/power#method-releaseKeepAwake) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=power.releaseKeepAwake&type=Code) ]
+  + [power.requestKeepAwake](https://developer.chrome.com/extensions/power#method-requestKeepAwake) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=power.requestKeepAwake&type=Code) ]
+  + [processes.onUpdatedWithMemory](https://developer.chrome.com/extensions/processes#event-onUpdatedWithMemory) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=processes.onUpdatedWithMemory&type=Code) ]
+  + [processes.getProcessIdForTab](https://developer.chrome.com/extensions/processes#method-getProcessIdForTab) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=processes.getProcessIdForTab&type=Code) ]
+  + [processes.terminate](https://developer.chrome.com/extensions/processes#method-terminate) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=processes.terminate&type=Code) ]
+  + [proxy.onProxyError](https://developer.chrome.com/extensions/proxy#event-onProxyError) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=proxy.onProxyError&type=Code) ]
+  + [runtime.onConnect](https://developer.chrome.com/extensions/runtime#event-onConnect) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.onConnect&type=Code) ]
+  + [runtime.onInstalled](https://developer.chrome.com/extensions/runtime#event-onInstalled) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.onInstalled&type=Code) ]
+  + [runtime.onMessage](https://developer.chrome.com/extensions/runtime#event-onMessage) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.onMessage&type=Code) ]
+  + [runtime.onStartup](https://developer.chrome.com/extensions/runtime#event-onStartup) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.onStartup&type=Code) ]
+  + [runtime.onSuspend](https://developer.chrome.com/extensions/runtime#event-onSuspend) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.onSuspend&type=Code) ]
+  + [runtime.connect](https://developer.chrome.com/extensions/runtime#method-connect) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.connect&type=Code) ]
+  + [runtime.connectNative](https://developer.chrome.com/extensions/runtime#method-connectNative) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.connectNative&type=Code) ]
+  + [runtime.getURL](https://developer.chrome.com/extensions/runtime#method-getURL) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.getURL&type=Code) ]
+  + [runtime.sendMessage](https://developer.chrome.com/extensions/runtime#method-sendMessage) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.sendMessage&type=Code) ]
+  + [runtime.id](https://developer.chrome.com/extensions/runtime#property-id) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.id&type=Code) ]
+  + [runtime.lastError](https://developer.chrome.com/extensions/runtime#property-lastError) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=runtime.lastError&type=Code) ]
+  + [signedInDevices.onDeviceInfoChange](https://developer.chrome.com/extensions/signedInDevices#event-onDeviceInfoChange) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=signedInDevices.onDeviceInfoChange&type=Code) ]
+  + [signedInDevices.get](https://developer.chrome.com/extensions/signedInDevices#method-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=signedInDevices.get&type=Code) ]
+  + [storage.onChanged](https://developer.chrome.com/extensions/storage#event-onChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=storage.onChanged&type=Code) ]
+  + [storage.StorageArea.clear](https://developer.chrome.com/extensions/storage#method-StorageArea-clear) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=storage.StorageArea.clear&type=Code) ]
+  + [storage.StorageArea.get](https://developer.chrome.com/extensions/storage#method-StorageArea-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=storage.StorageArea.get&type=Code) ]
+  + [storage.StorageArea.remove](https://developer.chrome.com/extensions/storage#method-StorageArea-remove) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=storage.StorageArea.remove&type=Code) ]
+  + [storage.StorageArea.set](https://developer.chrome.com/extensions/storage#method-StorageArea-set) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=storage.StorageArea.set&type=Code) ]
+  + [storage.local](https://developer.chrome.com/extensions/storage#property-local) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=storage.local&type=Code) ]
+  + [tabs.onAttached](https://developer.chrome.com/extensions/tabs#event-onAttached) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onAttached&type=Code) ]
+  + [tabs.onCreated](https://developer.chrome.com/extensions/tabs#event-onCreated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onCreated&type=Code) ]
+  + [tabs.onDetached](https://developer.chrome.com/extensions/tabs#event-onDetached) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onDetached&type=Code) ]
+  + [tabs.onMoved](https://developer.chrome.com/extensions/tabs#event-onMoved) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onMoved&type=Code) ]
+  + [tabs.onRemoved](https://developer.chrome.com/extensions/tabs#event-onRemoved) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onRemoved&type=Code) ]
+  + [tabs.onSelectionChanged](https://developer.chrome.com/extensions/tabs#event-onSelectionChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onSelectionChanged&type=Code) ]
+  + [tabs.onUpdated](https://developer.chrome.com/extensions/tabs#event-onUpdated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onUpdated&type=Code) ]
+  + [tabs.onZoomChange](https://developer.chrome.com/extensions/tabs#event-onZoomChange) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.onZoomChange&type=Code) ]
+  + [tabs.captureVisibleTab](https://developer.chrome.com/extensions/tabs#method-captureVisibleTab) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.captureVisibleTab&type=Code) ]
+  + [tabs.connect](https://developer.chrome.com/extensions/tabs#method-connect) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.connect&type=Code) ]
+  + [tabs.create](https://developer.chrome.com/extensions/tabs#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.create&type=Code) ]
+  + [tabs.detectLanguage](https://developer.chrome.com/extensions/tabs#method-detectLanguage) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.detectLanguage&type=Code) ]
+  + [tabs.duplicate](https://developer.chrome.com/extensions/tabs#method-duplicate) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.duplicate&type=Code) ]
+  + [tabs.executeScript](https://developer.chrome.com/extensions/tabs#method-executeScript) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.executeScript&type=Code) ]
+  + [tabs.get](https://developer.chrome.com/extensions/tabs#method-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.get&type=Code) ]
+  + [tabs.getAllInWindow](https://developer.chrome.com/extensions/tabs#method-getAllInWindow) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.getAllInWindow&type=Code) ]
+  + [tabs.getCurrent](https://developer.chrome.com/extensions/tabs#method-getCurrent) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.getCurrent&type=Code) ]
+  + [tabs.getZoom](https://developer.chrome.com/extensions/tabs#method-getZoom) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.getZoom&type=Code) ]
+  + [tabs.getZoomSettings](https://developer.chrome.com/extensions/tabs#method-getZoomSettings) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.getZoomSettings&type=Code) ]
+  + [tabs.insertCSS](https://developer.chrome.com/extensions/tabs#method-insertCSS) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.insertCSS&type=Code) ]
+  + [tabs.move](https://developer.chrome.com/extensions/tabs#method-move) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.move&type=Code) ]
+  + [tabs.query](https://developer.chrome.com/extensions/tabs#method-query) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.query&type=Code) ]
+  + [tabs.remove](https://developer.chrome.com/extensions/tabs#method-remove) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.remove&type=Code) ]
+  + [tabs.sendMessage](https://developer.chrome.com/extensions/tabs#method-sendMessage) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.sendMessage&type=Code) ]
+  + [tabs.sendRequest](https://developer.chrome.com/extensions/tabs#method-sendRequest) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.sendRequest&type=Code) ]
+  + [tabs.setZoom](https://developer.chrome.com/extensions/tabs#method-setZoom) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.setZoom&type=Code) ]
+  + [tabs.setZoomSettings](https://developer.chrome.com/extensions/tabs#method-setZoomSettings) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.setZoomSettings&type=Code) ]
+  + [tabs.update](https://developer.chrome.com/extensions/tabs#method-update) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tabs.update&type=Code) ]
+  + [topSites.get](https://developer.chrome.com/extensions/topSites#method-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=topSites.get&type=Code) ]
+  + [tts.getVoices](https://developer.chrome.com/extensions/tts#method-getVoices) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tts.getVoices&type=Code) ]
+  + [tts.isSpeaking](https://developer.chrome.com/extensions/tts#method-isSpeaking) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tts.isSpeaking&type=Code) ]
+  + [tts.speak](https://developer.chrome.com/extensions/tts#method-speak) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tts.speak&type=Code) ]
+  + [tts.stop](https://developer.chrome.com/extensions/tts#method-stop) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=tts.stop&type=Code) ]
+  + [ttsEngine.onSpeak](https://developer.chrome.com/extensions/ttsEngine#event-onSpeak) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=ttsEngine.onSpeak&type=Code) ]
+  + [ttsEngine.onStop](https://developer.chrome.com/extensions/ttsEngine#event-onStop) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=ttsEngine.onStop&type=Code) ]
+  + [webNavigation.onBeforeNavigate](https://developer.chrome.com/extensions/webNavigation#event-onBeforeNavigate) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onBeforeNavigate&type=Code) ]
+  + [webNavigation.onCommitted](https://developer.chrome.com/extensions/webNavigation#event-onCommitted) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onCommitted&type=Code) ]
+  + [webNavigation.onCompleted](https://developer.chrome.com/extensions/webNavigation#event-onCompleted) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onCompleted&type=Code) ]
+  + [webNavigation.onCreatedNavigationTarget](https://developer.chrome.com/extensions/webNavigation#event-onCreatedNavigationTarget) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onCreatedNavigationTarget&type=Code) ]
+  + [webNavigation.onDOMContentLoaded](https://developer.chrome.com/extensions/webNavigation#event-onDOMContentLoaded) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onDOMContentLoaded&type=Code) ]
+  + [webNavigation.onErrorOccurred](https://developer.chrome.com/extensions/webNavigation#event-onErrorOccurred) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onErrorOccurred&type=Code) ]
+  + [webNavigation.onHistoryStateUpdated](https://developer.chrome.com/extensions/webNavigation#event-onHistoryStateUpdated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onHistoryStateUpdated&type=Code) ]
+  + [webNavigation.onReferenceFragmentUpdated](https://developer.chrome.com/extensions/webNavigation#event-onReferenceFragmentUpdated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webNavigation.onReferenceFragmentUpdated&type=Code) ]
+  + [webRequest.onBeforeRequest](https://developer.chrome.com/extensions/webRequest#event-onBeforeRequest) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=webRequest.onBeforeRequest&type=Code) ]
+  + [windows.onCreated](https://developer.chrome.com/extensions/windows#event-onCreated) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.onCreated&type=Code) ]
+  + [windows.onFocusChanged](https://developer.chrome.com/extensions/windows#event-onFocusChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.onFocusChanged&type=Code) ]
+  + [windows.onRemoved](https://developer.chrome.com/extensions/windows#event-onRemoved) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.onRemoved&type=Code) ]
+  + [windows.create](https://developer.chrome.com/extensions/windows#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.create&type=Code) ]
+  + [windows.get](https://developer.chrome.com/extensions/windows#method-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.get&type=Code) ]
+  + [windows.getAll](https://developer.chrome.com/extensions/windows#method-getAll) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.getAll&type=Code) ]
+  + [windows.getCurrent](https://developer.chrome.com/extensions/windows#method-getCurrent) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.getCurrent&type=Code) ]
+  + [windows.getLastFocused](https://developer.chrome.com/extensions/windows#method-getLastFocused) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.getLastFocused&type=Code) ]
+  + [windows.remove](https://developer.chrome.com/extensions/windows#method-remove) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.remove&type=Code) ]
+  + [windows.update](https://developer.chrome.com/extensions/windows#method-update) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=windows.update&type=Code) ]
 
 ## SAMPLES
 
