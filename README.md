@@ -19,7 +19,7 @@ pffy's COPY-ONLY git mirror of Google Chrome extension samples
 
 The following is a list of **chrome.* API** calls made in the extension samples.
 
-   + [alarms.onAlarm](https://developer.chrome.com/extensions/alarms#event-onAlarm)
+  + [alarms.onAlarm](https://developer.chrome.com/extensions/alarms#event-onAlarm)
   + [alarms.create](https://developer.chrome.com/extensions/alarms#method-create)
   + [alarms.get](https://developer.chrome.com/extensions/alarms#method-get)
   + [bookmarks.onChanged](https://developer.chrome.com/extensions/bookmarks#event-onChanged)
