@@ -1,5 +1,6 @@
 ## Google Chome Extension Sampples
-pffy's COPY-ONLY git mirror of Google Chrome extension samples
+COPY-ONLY git mirror of Google Chrome extension samples found here:
+  + https://developer.chrome.com/extensions/samples
 
 + [LICENSE](#license)
   + [SUMMARY](#summary)
