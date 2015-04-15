@@ -24,7 +24,7 @@ pffy's COPY-ONLY git mirror of Google Chrome extension samples
 
 The following list links you to **chrome.* API** calls made in the extension samples (for reference).
 
-   + [alarms.onAlarm](https://developer.chrome.com/extensions/alarms#event-onAlarm) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=alarms.onAlarm&type=Code) ]
+  + [alarms.onAlarm](https://developer.chrome.com/extensions/alarms#event-onAlarm) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=alarms.onAlarm&type=Code) ]
   + [alarms.create](https://developer.chrome.com/extensions/alarms#method-create) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=alarms.create&type=Code) ]
   + [alarms.get](https://developer.chrome.com/extensions/alarms#method-get) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=alarms.get&type=Code) ]
   + [bookmarks.onChanged](https://developer.chrome.com/extensions/bookmarks#event-onChanged) [ [code](https://github.com/pffy/chrome-extension-samples/search?utf8=%E2%9C%93&q=bookmarks.onChanged&type=Code) ]
