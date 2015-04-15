@@ -1,5 +1,10 @@
-# chrome-extension-samples
+## Google Chome Extension Sampples
 pffy's COPY-ONLY git mirror of Google Chrome extension samples
+
++ [LICENSE](#LICENSE)
+  + [SUMMARY](#SUMMARY)
+    + [CALLS](#CALLS)
+    + [SAMPLES](#SAMPLES)
 
 # LICENSE
   + READ THIS BSD-STYLE [LICENSE](https://raw.githubusercontent.com/pffy/chrome-extension-samples/master/LICENSE.md).
@@ -17,7 +22,7 @@ pffy's COPY-ONLY git mirror of Google Chrome extension samples
 
 ## CALLS
 
-The following is a list of **chrome.* API** calls made in the extension samples.
+The following list links you to **chrome.* API** calls made in the extension samples (for reference).
 
   + [alarms.onAlarm](https://developer.chrome.com/extensions/alarms#event-onAlarm)
   + [alarms.create](https://developer.chrome.com/extensions/alarms#method-create)
@@ -238,96 +243,97 @@ The following is a list of **chrome.* API** calls made in the extension samples.
 
 ## SAMPLES
 
+  The following list links you directly to Google Chrome sample extension information and zip files (for reference).
 
   + [My Bookmarks](https://developer.chrome.com/extensions/samples#my-bookmarks)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/bookmarks/basic.zip) ]
-  + Page Redder
-  + Print this page
-  + A browser action which changes its icon when clicked
-  + A browser action with a popup that changes the page color
-  + BrowsingData API: Basics
-  + Sample Extension Commands extension
-  + Content settings
-  + Context Menus Sample
-  + Context Menus Sample (with Event Page)
-  + Cookie API Test Extension
-  + Live HTTP headers
-  + JavaScript pause/resume
-  + Desktop Capture Example
-  + My Devices
-  + Broken Links
-  + Chrome Preprocessor Example
-  + FirePHP for Chrome
-  + Chrome Query
-  + Document Scanning API Sample (not available)
-  + Download Filename Controller
-  + Download Selected Links
-  + Download Manager Button
-  + Download and Open Button
-  + Downloads Overwrite Existing Files
-  + Event Page Example
-  + `extension.isAllowedFileSchemeAccess` and `extension.isAllowedIncognitoAccess` Example
-  + Fake Archive Handler App
-  + File System Provider API Extension Example
-  + Advanced Font Settings
-  + Typed URL History
-  + CLD
-  + AcceptLanguage
-  + Minimal Localized Hosted App
-  + Idle - Simple Example
-  + Test IME
-  + Message Timer
-  + Native Messaging Example
-  + Notification Demo
-  + Omnibox Example
-  + Blank new tab page
-  + iGoogle new tab page
-  + Page action by content
-  + Page action by URL
-  + Animated Page Action
-  + Top Chrome Extension Questions
-  + Keep Awake
-  + Block/allow third-party cookies API example extension
-  + Block/allow referrer API example extension
-  + Process Monitor
-  + Show Tabs in Process
-  + Stylizr
-  + Tab Inspector
-  + Keyboard Pin
-  + Test Screenshot Extension
-  + Tabs Zoom API Demo
-  + Top Sites
-  + NTP prototyping extension
-  + Console TTS Engine
-  + WebNavigation Tech Demo
-  + Merge Windows
-  + Simple Background App
-  + Calculator
-  + App Launcher
-  + Chromium Buildbot Monitor
-  + Google Calendar Checker (by Google)
-  + CatBlock
-  + Catifier
-  + Chromium Search
-  + Email this page (by Google)
-  + Chrome Sounds
-  + Google Document List Viewer
-  + Google Mail Checker
-  + Imageinfo
-  + Chromium IRC App
-  + Managed Bookmarks
-  + Mappy
-  + Google Maps
-  + News Reader (by Google)
-  + News Reader
-  + News Reader
-  + Sample - OAuth Contacts
-  + Per-plugin content settings
-  + Proxy Extension API Sample
-  + Speak Selection
-  + Talking Alarm Clock
-  + TTS Debug
-  + TTS Demo
-  + Sandboxed Frame
-  + Tab Shortcuts
-  + Event Tracking with Google Analytics
-  + Getting started example
+  + [Page Redder](https://developer.chrome.com/extensions/samples#page-redder)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/browserAction/make_page_red.zip) ]
+  + [Print this page](https://developer.chrome.com/extensions/samples#print-this-page)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/browserAction/print.zip) ]
+  + [A browser action which changes its icon when clicked](https://developer.chrome.com/extensions/samples#a-browser-action-which-changes-its-icon-when-clicked)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/browserAction/set_icon_path.zip) ]
+  + [A browser action with a popup that changes the page color](https://developer.chrome.com/extensions/samples#a-browser-action-with-a-popup-that-changes-the-page-color)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/browserAction/set_page_color.zip) ]
+  + [BrowsingData API: Basics](https://developer.chrome.com/extensions/samples#browsingdata-api:-basics)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/browsingData/basic.zip) ]
+  + [Sample Extension Commands extension](https://developer.chrome.com/extensions/samples#sample-extension-commands-extension)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/commands.zip) ]
+  + [Content settings](https://developer.chrome.com/extensions/samples#content-settings)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/contentSettings.zip) ]
+  + [Context Menus Sample](https://developer.chrome.com/extensions/samples#context-menus-sample)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/contextMenus/basic.zip) ]
+  + [Context Menus Sample (with Event Page)](https://developer.chrome.com/extensions/samples#context-menus-sample-(with-event-page))  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/contextMenus/event_page.zip) ]
+  + [Cookie API Test Extension](https://developer.chrome.com/extensions/samples#cookie-api-test-extension)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/cookies.zip) ]
+  + [Live HTTP headers](https://developer.chrome.com/extensions/samples#live-http-headers)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/debugger/live-headers.zip) ]
+  + [JavaScript pause/resume](https://developer.chrome.com/extensions/samples#javascript-pause/resume)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/debugger/pause-resume.zip) ]
+  + [Desktop Capture Example](https://developer.chrome.com/extensions/samples#desktop-capture-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/desktopCapture.zip) ]
+  + [My Devices](https://developer.chrome.com/extensions/samples#my-devices)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/deviceInfo/basic.zip) ]
+  + [Broken Links](https://developer.chrome.com/extensions/samples#broken-links)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/devtools/audits/broken-links.zip) ]
+  + [Chrome Preprocessor Example](https://developer.chrome.com/extensions/samples#chrome-preprocessor-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/devtools/inspectedWindow/chrome-preprocessor.zip) ]
+  + [FirePHP for Chrome](https://developer.chrome.com/extensions/samples#firephp-for-chrome)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/devtools/network/chrome-firephp.zip) ]
+  + [Chrome Query](https://developer.chrome.com/extensions/samples#chrome-query)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/devtools/panels/chrome-query.zip) ]
+  + [Document Scanning API Sample](https://developer.chrome.com/extensions/samples#document-scanning-api-sample)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/document_scan.zip) ]
+  + [Download Filename Controller](https://developer.chrome.com/extensions/samples#download-filename-controller)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/downloads/download_filename_controller.zip) ]
+  + [Download Selected Links](https://developer.chrome.com/extensions/samples#download-selected-links)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/downloads/download_links.zip) ]
+  + [Download Manager Button](https://developer.chrome.com/extensions/samples#download-manager-button)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/downloads/download_manager.zip) ]
+  + [Download and Open Button](https://developer.chrome.com/extensions/samples#download-and-open-button)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/downloads/download_open.zip) ]
+  + [Downloads Overwrite Existing Files](https://developer.chrome.com/extensions/samples#downloads-overwrite-existing-files)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/downloads/downloads_overwrite.zip) ]
+  + [Event Page Example](https://developer.chrome.com/extensions/samples#event-page-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/eventPage/basic.zip) ]
+  + [`extension.isAllowedFileSchemeAccess` and `extension.isAllowedIncognitoAccess` Example](https://developer.chrome.com/extensions/samples#`extension.isallowedfileschemeaccess`-and-`extension.isallowedincognitoaccess`-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/extension/isAllowedAccess.zip) ]
+  + [Fake Archive Handler App](https://developer.chrome.com/extensions/samples#fake-archive-handler-app)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/fileSystemProvider/archive.zip) ]
+  + [File System Provider API Extension Example](https://developer.chrome.com/extensions/samples#file-system-provider-api-extension-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/fileSystemProvider/basic.zip) ]
+  + [Advanced Font Settings](https://developer.chrome.com/extensions/samples#advanced-font-settings)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/fontSettings.zip) ]
+  + [Typed URL History](https://developer.chrome.com/extensions/samples#typed-url-history)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/history/showHistory.zip) ]
+  + [CLD](https://developer.chrome.com/extensions/samples#cld)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/i18n/cld.zip) ]
+  + [AcceptLanguage](https://developer.chrome.com/extensions/samples#acceptlanguage)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/i18n/getMessage.zip) ]
+  + [Minimal Localized Hosted App](https://developer.chrome.com/extensions/samples#minimal-localized-hosted-app)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/i18n/localizedHostedApp.zip) ]
+  + [Idle - Simple Example](https://developer.chrome.com/extensions/samples#idle---simple-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/idle/idle_simple.zip) ]
+  + [Test IME](https://developer.chrome.com/extensions/samples#test-ime)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/input.ime/basic.zip) ]
+  + [Message Timer](https://developer.chrome.com/extensions/samples#message-timer)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/messaging/timer.zip) ]
+  + [Native Messaging Example](https://developer.chrome.com/extensions/samples#native-messaging-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/nativeMessaging/app.zip) ]
+  + [Notification Demo](https://developer.chrome.com/extensions/samples#notification-demo)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/notifications.zip) ]
+  + [Omnibox Example](https://developer.chrome.com/extensions/samples#omnibox-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/omnibox/simple-example.zip) ]
+  + [Blank new tab page](https://developer.chrome.com/extensions/samples#blank-new-tab-page)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/override/blank_ntp.zip) ]
+  + [iGoogle new tab page](https://developer.chrome.com/extensions/samples#igoogle-new-tab-page)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/override/override_igoogle.zip) ]
+  + [Page action by content](https://developer.chrome.com/extensions/samples#page-action-by-content)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/pageAction/pageaction_by_content.zip) ]
+  + [Page action by URL](https://developer.chrome.com/extensions/samples#page-action-by-url)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/pageAction/pageaction_by_url.zip) ]
+  + [Animated Page Action](https://developer.chrome.com/extensions/samples#animated-page-action)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/pageAction/set_icon.zip) ]
+  + [Top Chrome Extension Questions](https://developer.chrome.com/extensions/samples#top-chrome-extension-questions)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/permissions/extension-questions.zip) ]
+  + [Keep Awake](https://developer.chrome.com/extensions/samples#keep-awake)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/power.zip) ]
+  + [Block/allow third-party cookies API example extension](https://developer.chrome.com/extensions/samples#block/allow-third-party-cookies-api-example-extension)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/preferences/allowThirdPartyCookies.zip) ]
+  + [Block/allow referrer API example extension](https://developer.chrome.com/extensions/samples#block/allow-referrer-api-example-extension)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/preferences/enableReferrer.zip) ]
+  + [Process Monitor](https://developer.chrome.com/extensions/samples#process-monitor)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/processes/process_monitor.zip) ]
+  + [Show Tabs in Process](https://developer.chrome.com/extensions/samples#show-tabs-in-process)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/processes/show_tabs.zip) ]
+  + [Stylizr](https://developer.chrome.com/extensions/samples#stylizr)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/storage/stylizr.zip) ]
+  + [Tab Inspector](https://developer.chrome.com/extensions/samples#tab-inspector)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/tabs/inspector.zip) ]
+  + [Keyboard Pin](https://developer.chrome.com/extensions/samples#keyboard-pin)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/tabs/pin.zip) ]
+  + [Test Screenshot Extension](https://developer.chrome.com/extensions/samples#test-screenshot-extension)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/tabs/screenshot.zip) ]
+  + [Tabs Zoom API Demo](https://developer.chrome.com/extensions/samples#tabs-zoom-api-demo)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/tabs/zoom.zip) ]
+  + [Top Sites](https://developer.chrome.com/extensions/samples#top-sites)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/topsites/basic.zip) ]
+  + [NTP prototyping extension](https://developer.chrome.com/extensions/samples#ntp-prototyping-extension)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/topsites/magic8ball.zip) ]
+  + [Console TTS Engine](https://developer.chrome.com/extensions/samples#console-tts-engine)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/ttsEngine/console_tts_engine.zip) ]
+  + [WebNavigation Tech Demo](https://developer.chrome.com/extensions/samples#webnavigation-tech-demo)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/webNavigation/basic.zip) ]
+  + [Merge Windows](https://developer.chrome.com/extensions/samples#merge-windows)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/windows/merge_windows.zip) ]
+  + [Simple Background App](https://developer.chrome.com/extensions/samples#simple-background-app)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/apps/background-simple.zip) ]
+  + [Calculator](https://developer.chrome.com/extensions/samples#calculator)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/apps/calculator/app.zip) ]
+  + [App Launcher](https://developer.chrome.com/extensions/samples#app-launcher)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/app_launcher.zip) ]
+  + [Chromium Buildbot Monitor](https://developer.chrome.com/extensions/samples#chromium-buildbot-monitor)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/buildbot.zip) ]
+  + [Google Calendar Checker (by Google)](https://developer.chrome.com/extensions/samples#google-calendar-checker-(by-google))  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/calendar.zip) ]
+  + [CatBlock](https://developer.chrome.com/extensions/samples#catblock)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/catblock.zip) ]
+  + [Catifier](https://developer.chrome.com/extensions/samples#catifier)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/catifier.zip) ]
+  + [Chromium Search](https://developer.chrome.com/extensions/samples#chromium-search)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/chrome_search.zip) ]
+  + [Email this page (by Google)](https://developer.chrome.com/extensions/samples#email-this-page-(by-google))  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/email_this_page.zip) ]
+  + [Chrome Sounds](https://developer.chrome.com/extensions/samples#chrome-sounds)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/fx.zip) ]
+  + [Google Document List Viewer](https://developer.chrome.com/extensions/samples#google-document-list-viewer)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/gdocs.zip) ]
+  + [Google Mail Checker](https://developer.chrome.com/extensions/samples#google-mail-checker)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/gmail.zip) ]
+  + [Imageinfo](https://developer.chrome.com/extensions/samples#imageinfo)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/imageinfo.zip) ]
+  + [Chromium IRC App](https://developer.chrome.com/extensions/samples#chromium-irc-app)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/irc/app.zip) ]
+  + [Managed Bookmarks](https://developer.chrome.com/extensions/samples#managed-bookmarks)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/managed_bookmarks.zip) ]
+  + [Mappy](https://developer.chrome.com/extensions/samples#mappy)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/mappy.zip) ]
+  + [Google Maps](https://developer.chrome.com/extensions/samples#google-maps)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/maps_app.zip) ]
+  + [News Reader (by Google)](https://developer.chrome.com/extensions/samples#news-reader-(by-google))  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/news.zip) ]
+  + [News Reader](https://developer.chrome.com/extensions/samples#news-reader)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/news_a11y.zip) ]
+  + [News Reader](https://developer.chrome.com/extensions/samples#news-reader)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/news_i18n.zip) ]
+  + [Sample - OAuth Contacts](https://developer.chrome.com/extensions/samples#sample---oauth-contacts)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/oauth_contacts.zip) ]
+  + [Per-plugin content settings](https://developer.chrome.com/extensions/samples#per-plugin-content-settings)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/plugin_settings.zip) ]
+  + [Proxy Extension API Sample](https://developer.chrome.com/extensions/samples#proxy-extension-api-sample)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/proxy_configuration.zip) ]
+  + [Speak Selection](https://developer.chrome.com/extensions/samples#speak-selection)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/speak_selection.zip) ]
+  + [Talking Alarm Clock](https://developer.chrome.com/extensions/samples#talking-alarm-clock)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/talking_alarm_clock.zip) ]
+  + [TTS Debug](https://developer.chrome.com/extensions/samples#tts-debug)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/ttsdebug.zip) ]
+  + [TTS Demo](https://developer.chrome.com/extensions/samples#tts-demo)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/extensions/ttsdemo.zip) ]
+  + [Sandboxed Frame](https://developer.chrome.com/extensions/samples#sandboxed-frame)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/howto/sandbox.zip) ]
+  + [Tab Shortcuts](https://developer.chrome.com/extensions/samples#tab-shortcuts)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/howto/tab_shortcuts.zip) ]
+  + [Event Tracking with Google Analytics](https://developer.chrome.com/extensions/samples#event-tracking-with-google-analytics)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/tutorials/analytics.zip) ]
+  + [Getting started example](https://developer.chrome.com/extensions/samples#getting-started-example)  [ [developer.chrome.com](https://developer.chrome.com/extensions/examples/tutorials/getstarted.zip) ]
