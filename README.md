@@ -239,7 +239,7 @@ The following is a list of **chrome.* API** calls made in the extension samples.
 ## SAMPLES
 
 
-  + My Bookmarks
+  +   + [My Bookmarks](https://developer.chrome.com/extensions/samples#my-bookmarks) [developer.chrome.com](https://developer.chrome.com/extensions/examples/api/bookmarks/basic.zip)
   + Page Redder
   + Print this page
   + A browser action which changes its icon when clicked
